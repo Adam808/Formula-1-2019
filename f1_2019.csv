@@ -1,0 +1,421 @@
+,Grand Prix,Date,Car,Race Position,PTS,Name,Total PTS
+0,Australia,2019-03-17,Mercedes,2,18,Hamilton,18
+1,Bahrain,2019-03-31,Mercedes,1,25,Hamilton,43
+2,China,2019-04-14,Mercedes,1,25,Hamilton,68
+3,Azerbaijan,2019-04-28,Mercedes,2,18,Hamilton,86
+4,Spain,2019-05-12,Mercedes,1,26,Hamilton,112
+5,Monaco,2019-05-26,Mercedes,1,25,Hamilton,137
+6,Canada,2019-06-09,Mercedes,1,25,Hamilton,162
+7,France,2019-06-23,Mercedes,1,25,Hamilton,187
+8,Austria,2019-06-30,Mercedes,5,10,Hamilton,197
+9,Great Britain,2019-07-14,Mercedes,1,26,Hamilton,223
+10,Germany,2019-07-28,Mercedes,9,2,Hamilton,225
+11,Hungary,2019-08-04,Mercedes,1,25,Hamilton,250
+12,Belgium,2019-09-01,Mercedes,2,18,Hamilton,268
+13,Italy,2019-09-08,Mercedes,3,16,Hamilton,284
+14,Singapore,2019-09-22,Mercedes,4,12,Hamilton,296
+15,Russia,2019-09-29,Mercedes,1,26,Hamilton,322
+16,Japan,2019-10-13,Mercedes,3,16,Hamilton,338
+17,Mexico,2019-10-27,Mercedes,1,25,Hamilton,363
+18,United States,2019-11-03,Mercedes,2,18,Hamilton,381
+19,Brazil,2019-11-17,Mercedes,7,6,Hamilton,387
+20,Abu Dhabi,2019-12-01,Mercedes,1,26,Hamilton,413
+0,Australia,2019-03-17,Mercedes,1,26,Bottas,26
+1,Bahrain,2019-03-31,Mercedes,2,18,Bottas,44
+2,China,2019-04-14,Mercedes,2,18,Bottas,62
+3,Azerbaijan,2019-04-28,Mercedes,1,25,Bottas,87
+4,Spain,2019-05-12,Mercedes,2,18,Bottas,105
+5,Monaco,2019-05-26,Mercedes,3,15,Bottas,120
+6,Canada,2019-06-09,Mercedes,4,13,Bottas,133
+7,France,2019-06-23,Mercedes,2,18,Bottas,151
+8,Austria,2019-06-30,Mercedes,3,15,Bottas,166
+9,Great Britain,2019-07-14,Mercedes,2,18,Bottas,184
+10,Germany,2019-07-28,Mercedes,DNF,0,Bottas,184
+11,Hungary,2019-08-04,Mercedes,8,4,Bottas,188
+12,Belgium,2019-09-01,Mercedes,3,15,Bottas,203
+13,Italy,2019-09-08,Mercedes,2,18,Bottas,221
+14,Singapore,2019-09-22,Mercedes,5,10,Bottas,231
+15,Russia,2019-09-29,Mercedes,2,18,Bottas,249
+16,Japan,2019-10-13,Mercedes,1,25,Bottas,274
+17,Mexico,2019-10-27,Mercedes,3,15,Bottas,289
+18,United States,2019-11-03,Mercedes,1,25,Bottas,314
+19,Brazil,2019-11-17,Mercedes,DNF,0,Bottas,314
+20,Abu Dhabi,2019-12-01,Mercedes,4,12,Bottas,326
+0,Australia,2019-03-17,Red Bull Racing Honda,3,15,Verstappen,15
+1,Bahrain,2019-03-31,Red Bull Racing Honda,4,12,Verstappen,27
+2,China,2019-04-14,Red Bull Racing Honda,4,12,Verstappen,39
+3,Azerbaijan,2019-04-28,Red Bull Racing Honda,4,12,Verstappen,51
+4,Spain,2019-05-12,Red Bull Racing Honda,3,15,Verstappen,66
+5,Monaco,2019-05-26,Red Bull Racing Honda,4,12,Verstappen,78
+6,Canada,2019-06-09,Red Bull Racing Honda,5,10,Verstappen,88
+7,France,2019-06-23,Red Bull Racing Honda,4,12,Verstappen,100
+8,Austria,2019-06-30,Red Bull Racing Honda,1,26,Verstappen,126
+9,Great Britain,2019-07-14,Red Bull Racing Honda,5,10,Verstappen,136
+10,Germany,2019-07-28,Red Bull Racing Honda,1,26,Verstappen,162
+11,Hungary,2019-08-04,Red Bull Racing Honda,2,19,Verstappen,181
+12,Belgium,2019-09-01,Red Bull Racing Honda,DNF,0,Verstappen,181
+13,Italy,2019-09-08,Red Bull Racing Honda,8,4,Verstappen,185
+14,Singapore,2019-09-22,Red Bull Racing Honda,3,15,Verstappen,200
+15,Russia,2019-09-29,Red Bull Racing Honda,4,12,Verstappen,212
+16,Japan,2019-10-13,Red Bull Racing Honda,DNF,0,Verstappen,212
+17,Mexico,2019-10-27,Red Bull Racing Honda,6,8,Verstappen,220
+18,United States,2019-11-03,Red Bull Racing Honda,3,15,Verstappen,235
+19,Brazil,2019-11-17,Red Bull Racing Honda,1,25,Verstappen,260
+20,Abu Dhabi,2019-12-01,Red Bull Racing Honda,2,18,Verstappen,278
+0,Australia,2019-03-17,Ferrari,5,10,Leclerc,10
+1,Bahrain,2019-03-31,Ferrari,3,16,Leclerc,26
+2,China,2019-04-14,Ferrari,5,10,Leclerc,36
+3,Azerbaijan,2019-04-28,Ferrari,5,11,Leclerc,47
+4,Spain,2019-05-12,Ferrari,5,10,Leclerc,57
+5,Monaco,2019-05-26,Ferrari,DNF,0,Leclerc,57
+6,Canada,2019-06-09,Ferrari,3,15,Leclerc,72
+7,France,2019-06-23,Ferrari,3,15,Leclerc,87
+8,Austria,2019-06-30,Ferrari,2,18,Leclerc,105
+9,Great Britain,2019-07-14,Ferrari,3,15,Leclerc,120
+10,Germany,2019-07-28,Ferrari,DNF,0,Leclerc,120
+11,Hungary,2019-08-04,Ferrari,4,12,Leclerc,132
+12,Belgium,2019-09-01,Ferrari,1,25,Leclerc,157
+13,Italy,2019-09-08,Ferrari,1,25,Leclerc,182
+14,Singapore,2019-09-22,Ferrari,2,18,Leclerc,200
+15,Russia,2019-09-29,Ferrari,3,15,Leclerc,215
+16,Japan,2019-10-13,Ferrari,6,8,Leclerc,223
+17,Mexico,2019-10-27,Ferrari,4,13,Leclerc,236
+18,United States,2019-11-03,Ferrari,4,13,Leclerc,249
+19,Brazil,2019-11-17,Ferrari,DNF,0,Leclerc,249
+20,Abu Dhabi,2019-12-01,Ferrari,3,15,Leclerc,264
+0,Australia,2019-03-17,Ferrari,4,12,Vettel,12
+1,Bahrain,2019-03-31,Ferrari,5,10,Vettel,22
+2,China,2019-04-14,Ferrari,3,15,Vettel,37
+3,Azerbaijan,2019-04-28,Ferrari,3,15,Vettel,52
+4,Spain,2019-05-12,Ferrari,4,12,Vettel,64
+5,Monaco,2019-05-26,Ferrari,2,18,Vettel,82
+6,Canada,2019-06-09,Ferrari,2,18,Vettel,100
+7,France,2019-06-23,Ferrari,5,11,Vettel,111
+8,Austria,2019-06-30,Ferrari,4,12,Vettel,123
+9,Great Britain,2019-07-14,Ferrari,16,0,Vettel,123
+10,Germany,2019-07-28,Ferrari,2,18,Vettel,141
+11,Hungary,2019-08-04,Ferrari,3,15,Vettel,156
+12,Belgium,2019-09-01,Ferrari,4,13,Vettel,169
+13,Italy,2019-09-08,Ferrari,13,0,Vettel,169
+14,Singapore,2019-09-22,Ferrari,1,25,Vettel,194
+15,Russia,2019-09-29,Ferrari,DNF,0,Vettel,194
+16,Japan,2019-10-13,Ferrari,2,18,Vettel,212
+17,Mexico,2019-10-27,Ferrari,2,18,Vettel,230
+18,United States,2019-11-03,Ferrari,DNF,0,Vettel,230
+19,Brazil,2019-11-17,Ferrari,DNF,0,Vettel,230
+20,Abu Dhabi,2019-12-01,Ferrari,5,10,Vettel,240
+0,Australia,2019-03-17,McLaren Renault,DNF,0,Sainz,0
+1,Bahrain,2019-03-31,McLaren Renault,DNF,0,Sainz,0
+2,China,2019-04-14,McLaren Renault,14,0,Sainz,0
+3,Azerbaijan,2019-04-28,McLaren Renault,7,6,Sainz,6
+4,Spain,2019-05-12,McLaren Renault,8,4,Sainz,10
+5,Monaco,2019-05-26,McLaren Renault,6,8,Sainz,18
+6,Canada,2019-06-09,McLaren Renault,11,0,Sainz,18
+7,France,2019-06-23,McLaren Renault,6,8,Sainz,26
+8,Austria,2019-06-30,McLaren Renault,8,4,Sainz,30
+9,Great Britain,2019-07-14,McLaren Renault,6,8,Sainz,38
+10,Germany,2019-07-28,McLaren Renault,5,10,Sainz,48
+11,Hungary,2019-08-04,McLaren Renault,5,10,Sainz,58
+12,Belgium,2019-09-01,McLaren Renault,DNF,0,Sainz,58
+13,Italy,2019-09-08,McLaren Renault,DNF,0,Sainz,58
+14,Singapore,2019-09-22,McLaren Renault,12,0,Sainz,58
+15,Russia,2019-09-29,McLaren Renault,6,8,Sainz,66
+16,Japan,2019-10-13,McLaren Renault,5,10,Sainz,76
+17,Mexico,2019-10-27,McLaren Renault,13,0,Sainz,76
+18,United States,2019-11-03,McLaren Renault,8,4,Sainz,80
+19,Brazil,2019-11-17,McLaren Renault,3,15,Sainz,95
+20,Abu Dhabi,2019-12-01,McLaren Renault,10,1,Sainz,96
+0,Australia,2019-03-17,Red Bull Racing Honda,11,0,Gasly,0
+1,Bahrain,2019-03-31,Red Bull Racing Honda,8,4,Gasly,4
+2,China,2019-04-14,Red Bull Racing Honda,6,9,Gasly,13
+3,Azerbaijan,2019-04-28,Red Bull Racing Honda,DNF,0,Gasly,13
+4,Spain,2019-05-12,Red Bull Racing Honda,6,8,Gasly,21
+5,Monaco,2019-05-26,Red Bull Racing Honda,5,11,Gasly,32
+6,Canada,2019-06-09,Red Bull Racing Honda,8,4,Gasly,36
+7,France,2019-06-23,Red Bull Racing Honda,10,1,Gasly,37
+8,Austria,2019-06-30,Red Bull Racing Honda,7,6,Gasly,43
+9,Great Britain,2019-07-14,Red Bull Racing Honda,4,12,Gasly,55
+10,Germany,2019-07-28,Red Bull Racing Honda,DNF,0,Gasly,55
+11,Hungary,2019-08-04,Red Bull Racing Honda,6,8,Gasly,63
+12,Belgium,2019-09-01,Scuderia Toro Rosso Honda,9,2,Gasly,65
+13,Italy,2019-09-08,Scuderia Toro Rosso Honda,11,0,Gasly,65
+14,Singapore,2019-09-22,Scuderia Toro Rosso Honda,8,4,Gasly,69
+15,Russia,2019-09-29,Scuderia Toro Rosso Honda,14,0,Gasly,69
+16,Japan,2019-10-13,Scuderia Toro Rosso Honda,7,6,Gasly,75
+17,Mexico,2019-10-27,Scuderia Toro Rosso Honda,9,2,Gasly,77
+18,United States,2019-11-03,Scuderia Toro Rosso Honda,DNF,0,Gasly,77
+19,Brazil,2019-11-17,Scuderia Toro Rosso Honda,2,18,Gasly,95
+20,Abu Dhabi,2019-12-01,Scuderia Toro Rosso Honda,18,0,Gasly,95
+0,Australia,2019-03-17,Scuderia Toro Rosso Honda,14,0,Albon,0
+1,Bahrain,2019-03-31,Scuderia Toro Rosso Honda,9,2,Albon,2
+2,China,2019-04-14,Scuderia Toro Rosso Honda,10,1,Albon,3
+3,Azerbaijan,2019-04-28,Scuderia Toro Rosso Honda,11,0,Albon,3
+4,Spain,2019-05-12,Scuderia Toro Rosso Honda,11,0,Albon,3
+5,Monaco,2019-05-26,Scuderia Toro Rosso Honda,8,4,Albon,7
+6,Canada,2019-06-09,Scuderia Toro Rosso Honda,DNF,0,Albon,7
+7,France,2019-06-23,Scuderia Toro Rosso Honda,15,0,Albon,7
+8,Austria,2019-06-30,Scuderia Toro Rosso Honda,15,0,Albon,7
+9,Great Britain,2019-07-14,Scuderia Toro Rosso Honda,12,0,Albon,7
+10,Germany,2019-07-28,Scuderia Toro Rosso Honda,6,8,Albon,15
+11,Hungary,2019-08-04,Scuderia Toro Rosso Honda,10,1,Albon,16
+12,Belgium,2019-09-01,Red Bull Racing Honda,5,10,Albon,26
+13,Italy,2019-09-08,Red Bull Racing Honda,6,8,Albon,34
+14,Singapore,2019-09-22,Red Bull Racing Honda,6,8,Albon,42
+15,Russia,2019-09-29,Red Bull Racing Honda,5,10,Albon,52
+16,Japan,2019-10-13,Red Bull Racing Honda,4,12,Albon,64
+17,Mexico,2019-10-27,Red Bull Racing Honda,5,10,Albon,74
+18,United States,2019-11-03,Red Bull Racing Honda,5,10,Albon,84
+19,Brazil,2019-11-17,Red Bull Racing Honda,14,0,Albon,84
+20,Abu Dhabi,2019-12-01,Red Bull Racing Honda,6,8,Albon,92
+0,Australia,2019-03-17,Renault,DNF,0,Ricciardo,0
+1,Bahrain,2019-03-31,Renault,DNF,0,Ricciardo,0
+2,China,2019-04-14,Renault,7,6,Ricciardo,6
+3,Azerbaijan,2019-04-28,Renault,DNF,0,Ricciardo,6
+4,Spain,2019-05-12,Renault,12,0,Ricciardo,6
+5,Monaco,2019-05-26,Renault,9,2,Ricciardo,8
+6,Canada,2019-06-09,Renault,6,8,Ricciardo,16
+7,France,2019-06-23,Renault,11,0,Ricciardo,16
+8,Austria,2019-06-30,Renault,12,0,Ricciardo,16
+9,Great Britain,2019-07-14,Renault,7,6,Ricciardo,22
+10,Germany,2019-07-28,Renault,DNF,0,Ricciardo,22
+11,Hungary,2019-08-04,Renault,14,0,Ricciardo,22
+12,Belgium,2019-09-01,Renault,14,0,Ricciardo,22
+13,Italy,2019-09-08,Renault,4,12,Ricciardo,34
+14,Singapore,2019-09-22,Renault,14,0,Ricciardo,34
+15,Russia,2019-09-29,Renault,DNF,0,Ricciardo,34
+16,Japan,2019-10-13,Renault,DSQ,0,Ricciardo,34
+17,Mexico,2019-10-27,Renault,8,4,Ricciardo,38
+18,United States,2019-11-03,Renault,6,8,Ricciardo,46
+19,Brazil,2019-11-17,Renault,6,8,Ricciardo,54
+20,Abu Dhabi,2019-12-01,Renault,11,0,Ricciardo,54
+0,Australia,2019-03-17,Racing Point BWT Mercedes,13,0,Perez,0
+1,Bahrain,2019-03-31,Racing Point BWT Mercedes,10,1,Perez,1
+2,China,2019-04-14,Racing Point BWT Mercedes,8,4,Perez,5
+3,Azerbaijan,2019-04-28,Racing Point BWT Mercedes,6,8,Perez,13
+4,Spain,2019-05-12,Racing Point BWT Mercedes,15,0,Perez,13
+5,Monaco,2019-05-26,Racing Point BWT Mercedes,12,0,Perez,13
+6,Canada,2019-06-09,Racing Point BWT Mercedes,12,0,Perez,13
+7,France,2019-06-23,Racing Point BWT Mercedes,12,0,Perez,13
+8,Austria,2019-06-30,Racing Point BWT Mercedes,11,0,Perez,13
+9,Great Britain,2019-07-14,Racing Point BWT Mercedes,17,0,Perez,13
+10,Germany,2019-07-28,Racing Point BWT Mercedes,DNF,0,Perez,13
+11,Hungary,2019-08-04,Racing Point BWT Mercedes,11,0,Perez,13
+12,Belgium,2019-09-01,Racing Point BWT Mercedes,6,8,Perez,21
+13,Italy,2019-09-08,Racing Point BWT Mercedes,7,6,Perez,27
+14,Singapore,2019-09-22,Racing Point BWT Mercedes,DNF,0,Perez,27
+15,Russia,2019-09-29,Racing Point BWT Mercedes,7,6,Perez,33
+16,Japan,2019-10-13,Racing Point BWT Mercedes,8,4,Perez,37
+17,Mexico,2019-10-27,Racing Point BWT Mercedes,7,6,Perez,43
+18,United States,2019-11-03,Racing Point BWT Mercedes,10,1,Perez,44
+19,Brazil,2019-11-17,Racing Point BWT Mercedes,9,2,Perez,46
+20,Abu Dhabi,2019-12-01,Racing Point BWT Mercedes,7,6,Perez,52
+0,Australia,2019-03-17,McLaren Renault,12,0,Norris,0
+1,Bahrain,2019-03-31,McLaren Renault,6,8,Norris,8
+2,China,2019-04-14,McLaren Renault,DNF,0,Norris,8
+3,Azerbaijan,2019-04-28,McLaren Renault,8,4,Norris,12
+4,Spain,2019-05-12,McLaren Renault,DNF,0,Norris,12
+5,Monaco,2019-05-26,McLaren Renault,11,0,Norris,12
+6,Canada,2019-06-09,McLaren Renault,DNF,0,Norris,12
+7,France,2019-06-23,McLaren Renault,9,2,Norris,14
+8,Austria,2019-06-30,McLaren Renault,6,8,Norris,22
+9,Great Britain,2019-07-14,McLaren Renault,11,0,Norris,22
+10,Germany,2019-07-28,McLaren Renault,DNF,0,Norris,22
+11,Hungary,2019-08-04,McLaren Renault,9,2,Norris,24
+12,Belgium,2019-09-01,McLaren Renault,DNF,0,Norris,24
+13,Italy,2019-09-08,McLaren Renault,10,1,Norris,25
+14,Singapore,2019-09-22,McLaren Renault,7,6,Norris,31
+15,Russia,2019-09-29,McLaren Renault,8,4,Norris,35
+16,Japan,2019-10-13,McLaren Renault,11,0,Norris,35
+17,Mexico,2019-10-27,McLaren Renault,DNF,0,Norris,35
+18,United States,2019-11-03,McLaren Renault,7,6,Norris,41
+19,Brazil,2019-11-17,McLaren Renault,8,4,Norris,45
+20,Abu Dhabi,2019-12-01,McLaren Renault,8,4,Norris,49
+0,Australia,2019-03-17,Alfa Romeo Racing Ferrari,8,4,Raikkonen,4
+1,Bahrain,2019-03-31,Alfa Romeo Racing Ferrari,7,6,Raikkonen,10
+2,China,2019-04-14,Alfa Romeo Racing Ferrari,9,2,Raikkonen,12
+3,Azerbaijan,2019-04-28,Alfa Romeo Racing Ferrari,10,1,Raikkonen,13
+4,Spain,2019-05-12,Alfa Romeo Racing Ferrari,14,0,Raikkonen,13
+5,Monaco,2019-05-26,Alfa Romeo Racing Ferrari,17,0,Raikkonen,13
+6,Canada,2019-06-09,Alfa Romeo Racing Ferrari,15,0,Raikkonen,13
+7,France,2019-06-23,Alfa Romeo Racing Ferrari,7,6,Raikkonen,19
+8,Austria,2019-06-30,Alfa Romeo Racing Ferrari,9,2,Raikkonen,21
+9,Great Britain,2019-07-14,Alfa Romeo Racing Ferrari,8,4,Raikkonen,25
+10,Germany,2019-07-28,Alfa Romeo Racing Ferrari,12,0,Raikkonen,25
+11,Hungary,2019-08-04,Alfa Romeo Racing Ferrari,7,6,Raikkonen,31
+12,Belgium,2019-09-01,Alfa Romeo Racing Ferrari,16,0,Raikkonen,31
+13,Italy,2019-09-08,Alfa Romeo Racing Ferrari,15,0,Raikkonen,31
+14,Singapore,2019-09-22,Alfa Romeo Racing Ferrari,DNF,0,Raikkonen,31
+15,Russia,2019-09-29,Alfa Romeo Racing Ferrari,13,0,Raikkonen,31
+16,Japan,2019-10-13,Alfa Romeo Racing Ferrari,12,0,Raikkonen,31
+17,Mexico,2019-10-27,Alfa Romeo Racing Ferrari,DNF,0,Raikkonen,31
+18,United States,2019-11-03,Alfa Romeo Racing Ferrari,11,0,Raikkonen,31
+19,Brazil,2019-11-17,Alfa Romeo Racing Ferrari,4,12,Raikkonen,43
+20,Abu Dhabi,2019-12-01,Alfa Romeo Racing Ferrari,13,0,Raikkonen,43
+0,Australia,2019-03-17,Scuderia Toro Rosso Honda,10,1,Kvyat,1
+1,Bahrain,2019-03-31,Scuderia Toro Rosso Honda,12,0,Kvyat,1
+2,China,2019-04-14,Scuderia Toro Rosso Honda,DNF,0,Kvyat,1
+3,Azerbaijan,2019-04-28,Scuderia Toro Rosso Honda,DNF,0,Kvyat,1
+4,Spain,2019-05-12,Scuderia Toro Rosso Honda,9,2,Kvyat,3
+5,Monaco,2019-05-26,Scuderia Toro Rosso Honda,7,6,Kvyat,9
+6,Canada,2019-06-09,Scuderia Toro Rosso Honda,10,1,Kvyat,10
+7,France,2019-06-23,Scuderia Toro Rosso Honda,14,0,Kvyat,10
+8,Austria,2019-06-30,Scuderia Toro Rosso Honda,17,0,Kvyat,10
+9,Great Britain,2019-07-14,Scuderia Toro Rosso Honda,9,2,Kvyat,12
+10,Germany,2019-07-28,Scuderia Toro Rosso Honda,3,15,Kvyat,27
+11,Hungary,2019-08-04,Scuderia Toro Rosso Honda,15,0,Kvyat,27
+12,Belgium,2019-09-01,Scuderia Toro Rosso Honda,7,6,Kvyat,33
+13,Italy,2019-09-08,Scuderia Toro Rosso Honda,DNF,0,Kvyat,33
+14,Singapore,2019-09-22,Scuderia Toro Rosso Honda,15,0,Kvyat,33
+15,Russia,2019-09-29,Scuderia Toro Rosso Honda,12,0,Kvyat,33
+16,Japan,2019-10-13,Scuderia Toro Rosso Honda,10,1,Kvyat,34
+17,Mexico,2019-10-27,Scuderia Toro Rosso Honda,11,0,Kvyat,34
+18,United States,2019-11-03,Scuderia Toro Rosso Honda,12,0,Kvyat,34
+19,Brazil,2019-11-17,Scuderia Toro Rosso Honda,10,1,Kvyat,35
+20,Abu Dhabi,2019-12-01,Scuderia Toro Rosso Honda,9,2,Kvyat,37
+0,Australia,2019-03-17,Renault,7,6,Hulkenberg,6
+1,Bahrain,2019-03-31,Renault,DNF,0,Hulkenberg,6
+2,China,2019-04-14,Renault,DNF,0,Hulkenberg,6
+3,Azerbaijan,2019-04-28,Renault,14,0,Hulkenberg,6
+4,Spain,2019-05-12,Renault,13,0,Hulkenberg,6
+5,Monaco,2019-05-26,Renault,13,0,Hulkenberg,6
+6,Canada,2019-06-09,Renault,7,6,Hulkenberg,12
+7,France,2019-06-23,Renault,8,4,Hulkenberg,16
+8,Austria,2019-06-30,Renault,13,0,Hulkenberg,16
+9,Great Britain,2019-07-14,Renault,10,1,Hulkenberg,17
+10,Germany,2019-07-28,Renault,DNF,0,Hulkenberg,17
+11,Hungary,2019-08-04,Renault,12,0,Hulkenberg,17
+12,Belgium,2019-09-01,Renault,8,4,Hulkenberg,21
+13,Italy,2019-09-08,Renault,5,10,Hulkenberg,31
+14,Singapore,2019-09-22,Renault,9,2,Hulkenberg,33
+15,Russia,2019-09-29,Renault,10,1,Hulkenberg,34
+16,Japan,2019-10-13,Renault,DSQ,0,Hulkenberg,34
+17,Mexico,2019-10-27,Renault,10,1,Hulkenberg,35
+18,United States,2019-11-03,Renault,9,2,Hulkenberg,37
+19,Brazil,2019-11-17,Renault,15,0,Hulkenberg,37
+20,Abu Dhabi,2019-12-01,Renault,12,0,Hulkenberg,37
+0,Australia,2019-03-17,Racing Point BWT Mercedes,9,2,Stroll,2
+1,Bahrain,2019-03-31,Racing Point BWT Mercedes,14,0,Stroll,2
+2,China,2019-04-14,Racing Point BWT Mercedes,12,0,Stroll,2
+3,Azerbaijan,2019-04-28,Racing Point BWT Mercedes,9,2,Stroll,4
+4,Spain,2019-05-12,Racing Point BWT Mercedes,DNF,0,Stroll,4
+5,Monaco,2019-05-26,Racing Point BWT Mercedes,16,0,Stroll,4
+6,Canada,2019-06-09,Racing Point BWT Mercedes,9,2,Stroll,6
+7,France,2019-06-23,Racing Point BWT Mercedes,13,0,Stroll,6
+8,Austria,2019-06-30,Racing Point BWT Mercedes,14,0,Stroll,6
+9,Great Britain,2019-07-14,Racing Point BWT Mercedes,13,0,Stroll,6
+10,Germany,2019-07-28,Racing Point BWT Mercedes,4,12,Stroll,18
+11,Hungary,2019-08-04,Racing Point BWT Mercedes,17,0,Stroll,18
+12,Belgium,2019-09-01,Racing Point BWT Mercedes,10,1,Stroll,19
+13,Italy,2019-09-08,Racing Point BWT Mercedes,12,0,Stroll,19
+14,Singapore,2019-09-22,Racing Point BWT Mercedes,13,0,Stroll,19
+15,Russia,2019-09-29,Racing Point BWT Mercedes,11,0,Stroll,19
+16,Japan,2019-10-13,Racing Point BWT Mercedes,9,2,Stroll,21
+17,Mexico,2019-10-27,Racing Point BWT Mercedes,12,0,Stroll,21
+18,United States,2019-11-03,Racing Point BWT Mercedes,13,0,Stroll,21
+19,Brazil,2019-11-17,Racing Point BWT Mercedes,DNF,0,Stroll,21
+20,Abu Dhabi,2019-12-01,Racing Point BWT Mercedes,DNF,0,Stroll,21
+0,Australia,2019-03-17,Haas Ferrari,6,8,Magnussen,8
+1,Bahrain,2019-03-31,Haas Ferrari,13,0,Magnussen,8
+2,China,2019-04-14,Haas Ferrari,13,0,Magnussen,8
+3,Azerbaijan,2019-04-28,Haas Ferrari,13,0,Magnussen,8
+4,Spain,2019-05-12,Haas Ferrari,7,6,Magnussen,14
+5,Monaco,2019-05-26,Haas Ferrari,14,0,Magnussen,14
+6,Canada,2019-06-09,Haas Ferrari,17,0,Magnussen,14
+7,France,2019-06-23,Haas Ferrari,17,0,Magnussen,14
+8,Austria,2019-06-30,Haas Ferrari,19,0,Magnussen,14
+9,Great Britain,2019-07-14,Haas Ferrari,DNF,0,Magnussen,14
+10,Germany,2019-07-28,Haas Ferrari,8,4,Magnussen,18
+11,Hungary,2019-08-04,Haas Ferrari,13,0,Magnussen,18
+12,Belgium,2019-09-01,Haas Ferrari,12,0,Magnussen,18
+13,Italy,2019-09-08,Haas Ferrari,DNF,0,Magnussen,18
+14,Singapore,2019-09-22,Haas Ferrari,17,0,Magnussen,18
+15,Russia,2019-09-29,Haas Ferrari,9,2,Magnussen,20
+16,Japan,2019-10-13,Haas Ferrari,15,0,Magnussen,20
+17,Mexico,2019-10-27,Haas Ferrari,15,0,Magnussen,20
+18,United States,2019-11-03,Haas Ferrari,DNF,0,Magnussen,20
+19,Brazil,2019-11-17,Haas Ferrari,11,0,Magnussen,20
+20,Abu Dhabi,2019-12-01,Haas Ferrari,14,0,Magnussen,20
+0,Australia,2019-03-17,Alfa Romeo Racing Ferrari,15,0,Giovinazzi,0
+1,Bahrain,2019-03-31,Alfa Romeo Racing Ferrari,11,0,Giovinazzi,0
+2,China,2019-04-14,Alfa Romeo Racing Ferrari,15,0,Giovinazzi,0
+3,Azerbaijan,2019-04-28,Alfa Romeo Racing Ferrari,12,0,Giovinazzi,0
+4,Spain,2019-05-12,Alfa Romeo Racing Ferrari,16,0,Giovinazzi,0
+5,Monaco,2019-05-26,Alfa Romeo Racing Ferrari,19,0,Giovinazzi,0
+6,Canada,2019-06-09,Alfa Romeo Racing Ferrari,13,0,Giovinazzi,0
+7,France,2019-06-23,Alfa Romeo Racing Ferrari,16,0,Giovinazzi,0
+8,Austria,2019-06-30,Alfa Romeo Racing Ferrari,10,1,Giovinazzi,1
+9,Great Britain,2019-07-14,Alfa Romeo Racing Ferrari,DNF,0,Giovinazzi,1
+10,Germany,2019-07-28,Alfa Romeo Racing Ferrari,13,0,Giovinazzi,1
+11,Hungary,2019-08-04,Alfa Romeo Racing Ferrari,18,0,Giovinazzi,1
+12,Belgium,2019-09-01,Alfa Romeo Racing Ferrari,DNF,0,Giovinazzi,1
+13,Italy,2019-09-08,Alfa Romeo Racing Ferrari,9,2,Giovinazzi,3
+14,Singapore,2019-09-22,Alfa Romeo Racing Ferrari,10,1,Giovinazzi,4
+15,Russia,2019-09-29,Alfa Romeo Racing Ferrari,15,0,Giovinazzi,4
+16,Japan,2019-10-13,Alfa Romeo Racing Ferrari,14,0,Giovinazzi,4
+17,Mexico,2019-10-27,Alfa Romeo Racing Ferrari,14,0,Giovinazzi,4
+18,United States,2019-11-03,Alfa Romeo Racing Ferrari,14,0,Giovinazzi,4
+19,Brazil,2019-11-17,Alfa Romeo Racing Ferrari,5,10,Giovinazzi,14
+20,Abu Dhabi,2019-12-01,Alfa Romeo Racing Ferrari,16,0,Giovinazzi,14
+0,Australia,2019-03-17,Haas Ferrari,DNF,0,Grosjean,0
+1,Bahrain,2019-03-31,Haas Ferrari,DNF,0,Grosjean,0
+2,China,2019-04-14,Haas Ferrari,11,0,Grosjean,0
+3,Azerbaijan,2019-04-28,Haas Ferrari,DNF,0,Grosjean,0
+4,Spain,2019-05-12,Haas Ferrari,10,1,Grosjean,1
+5,Monaco,2019-05-26,Haas Ferrari,10,1,Grosjean,2
+6,Canada,2019-06-09,Haas Ferrari,14,0,Grosjean,2
+7,France,2019-06-23,Haas Ferrari,DNF,0,Grosjean,2
+8,Austria,2019-06-30,Haas Ferrari,16,0,Grosjean,2
+9,Great Britain,2019-07-14,Haas Ferrari,DNF,0,Grosjean,2
+10,Germany,2019-07-28,Haas Ferrari,7,6,Grosjean,8
+11,Hungary,2019-08-04,Haas Ferrari,DNF,0,Grosjean,8
+12,Belgium,2019-09-01,Haas Ferrari,13,0,Grosjean,8
+13,Italy,2019-09-08,Haas Ferrari,16,0,Grosjean,8
+14,Singapore,2019-09-22,Haas Ferrari,11,0,Grosjean,8
+15,Russia,2019-09-29,Haas Ferrari,DNF,0,Grosjean,8
+16,Japan,2019-10-13,Haas Ferrari,13,0,Grosjean,8
+17,Mexico,2019-10-27,Haas Ferrari,17,0,Grosjean,8
+18,United States,2019-11-03,Haas Ferrari,15,0,Grosjean,8
+19,Brazil,2019-11-17,Haas Ferrari,13,0,Grosjean,8
+20,Abu Dhabi,2019-12-01,Haas Ferrari,15,0,Grosjean,8
+0,Australia,2019-03-17,Williams Mercedes,17,0,Kubica,0
+1,Bahrain,2019-03-31,Williams Mercedes,16,0,Kubica,0
+2,China,2019-04-14,Williams Mercedes,17,0,Kubica,0
+3,Azerbaijan,2019-04-28,Williams Mercedes,16,0,Kubica,0
+4,Spain,2019-05-12,Williams Mercedes,18,0,Kubica,0
+5,Monaco,2019-05-26,Williams Mercedes,18,0,Kubica,0
+6,Canada,2019-06-09,Williams Mercedes,18,0,Kubica,0
+7,France,2019-06-23,Williams Mercedes,18,0,Kubica,0
+8,Austria,2019-06-30,Williams Mercedes,20,0,Kubica,0
+9,Great Britain,2019-07-14,Williams Mercedes,15,0,Kubica,0
+10,Germany,2019-07-28,Williams Mercedes,10,1,Kubica,1
+11,Hungary,2019-08-04,Williams Mercedes,19,0,Kubica,1
+12,Belgium,2019-09-01,Williams Mercedes,17,0,Kubica,1
+13,Italy,2019-09-08,Williams Mercedes,17,0,Kubica,1
+14,Singapore,2019-09-22,Williams Mercedes,16,0,Kubica,1
+15,Russia,2019-09-29,Williams Mercedes,DNF,0,Kubica,1
+16,Japan,2019-10-13,Williams Mercedes,17,0,Kubica,1
+17,Mexico,2019-10-27,Williams Mercedes,18,0,Kubica,1
+18,United States,2019-11-03,Williams Mercedes,DNF,0,Kubica,1
+19,Brazil,2019-11-17,Williams Mercedes,16,0,Kubica,1
+20,Abu Dhabi,2019-12-01,Williams Mercedes,19,0,Kubica,1
+0,Australia,2019-03-17,Williams Mercedes,16,0,Russell,0
+1,Bahrain,2019-03-31,Williams Mercedes,15,0,Russell,0
+2,China,2019-04-14,Williams Mercedes,16,0,Russell,0
+3,Azerbaijan,2019-04-28,Williams Mercedes,15,0,Russell,0
+4,Spain,2019-05-12,Williams Mercedes,17,0,Russell,0
+5,Monaco,2019-05-26,Williams Mercedes,15,0,Russell,0
+6,Canada,2019-06-09,Williams Mercedes,16,0,Russell,0
+7,France,2019-06-23,Williams Mercedes,19,0,Russell,0
+8,Austria,2019-06-30,Williams Mercedes,18,0,Russell,0
+9,Great Britain,2019-07-14,Williams Mercedes,14,0,Russell,0
+10,Germany,2019-07-28,Williams Mercedes,11,0,Russell,0
+11,Hungary,2019-08-04,Williams Mercedes,16,0,Russell,0
+12,Belgium,2019-09-01,Williams Mercedes,15,0,Russell,0
+13,Italy,2019-09-08,Williams Mercedes,14,0,Russell,0
+14,Singapore,2019-09-22,Williams Mercedes,DNF,0,Russell,0
+15,Russia,2019-09-29,Williams Mercedes,DNF,0,Russell,0
+16,Japan,2019-10-13,Williams Mercedes,16,0,Russell,0
+17,Mexico,2019-10-27,Williams Mercedes,16,0,Russell,0
+18,United States,2019-11-03,Williams Mercedes,17,0,Russell,0
+19,Brazil,2019-11-17,Williams Mercedes,12,0,Russell,0
+20,Abu Dhabi,2019-12-01,Williams Mercedes,17,0,Russell,0
