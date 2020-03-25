@@ -12,6 +12,13 @@ plt.ylabel('Total points')
 plt.xticks(rotation=90)
 plt.show()
 
+# average points per race
+all_drivers['Avg PTS'] = all_drivers['PTS'] / 21
+_ = sns.barplot(x='Driver', y='Avg PTS', data=all_drivers)
+plt.ylabel('Average points per race')
+plt.xticks(rotation=90)
+plt.show()
+
 
 # fastest lap bar chart
 fastest_lap = pd.read_csv('fastest_lap.csv').drop('Unnamed: 0', axis=1)
